@@ -7,7 +7,7 @@ import { PruebaComponentComponent } from './prueba-component/prueba-component.co
 import { MaloComponentComponent } from './malo-component/malo-component.component';
 import { AssertsComponentComponent } from './asserts-component/asserts-component.component';
 import { Mock1ComponentComponent } from './mock1-component/mock1-component.component';
-import { SnapTestComponentComponent } from './snap-test-component/snap-test-component.component';
+import { Mock2ComponentComponent } from './mock2-component/mock2-component.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +16,7 @@ import { SnapTestComponentComponent } from './snap-test-component/snap-test-comp
     MaloComponentComponent,
     AssertsComponentComponent,
     Mock1ComponentComponent,
-    SnapTestComponentComponent
+    Mock2ComponentComponent
   ],
   imports: [
     BrowserModule,
