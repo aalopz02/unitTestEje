@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SnapTestComponentComponent should render with image 1`] = `
+<app-snap-test-component
+  item={[Function Object]}
+>
+  <p>
+    snap-test-component works!
+  </p><div>
+    
+    <div>
+      <img
+        alt=""
+        src="https://some-image"
+      />
+    </div>
+    
+  </div>
+</app-snap-test-component>
+`;
